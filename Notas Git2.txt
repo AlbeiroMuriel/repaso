@@ -1,0 +1,37 @@
+git init
+
+config nombre y correo
+
+
+agregar los arhivos del proyecto
+guardar los cambios
+
+git status
+*** modificado
+
+git diff
+
+git restore nombreArch
+
+git add
+
+git commit (enter, ingresa a la consola)
+git commit -m "escribir titulo del commit"
+
+cambiarse de commit
+git checkout #######
+
+rama
+git branch NombreRama
+git commit
+
+
+git merge NombreRama
+
+eliminar la rama
+git branch -d NombreRama
+
+
+
+
+
